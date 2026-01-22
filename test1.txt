@@ -1,5 +1,2 @@
 tamil23.txt
-66666
-55555
-55555555
-444444
+Peking is the older, traditional English spelling for Beijing (北京), the sprawling capital of China, a city rich in ancient sites like the Forbidden City and Tiananmen Square, alongside modern architecture, known globally for its history and culture, as well as famous dishes like Peking Duck. While "Beijing" is the current official Pinyin spelling, "Peking" persists in historical contexts and names like Peking University and Peking Duck
